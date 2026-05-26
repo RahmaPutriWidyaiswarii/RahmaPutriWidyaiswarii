@@ -1,5 +1,5 @@
 <div align="center">
-## 📬 Hubungi Aku
+📬 Hubungi Aku
 
 <div align="center">
 
