@@ -1,4 +1,16 @@
 <div align="center">
+## 📬 Hubungi Aku
+
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895395136695)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-putri-widyaiswari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rahmaputriiw)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmaputriiw@gmail.com)
+
+</div>
+
+---
 
 <!-- Wave Header -->
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rahma%20Putri%20Widyaiswari&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=16)
